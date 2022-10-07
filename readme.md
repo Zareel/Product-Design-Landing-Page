@@ -11,3 +11,7 @@
 ![image](<./images/Screenshot%20(301).png>)
 ![image](<./images/Screenshot%20(302).png>)
 ![image](<./images/Screenshot%20(303).png>)
+
+[github](https://github.com/Zareel/Product-Design-Landing-Page)
+
+[live](https://lively-z-product-design-landing-page.netlify.app/)

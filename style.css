@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Montserrat+Alternates&family=Montserrat:wght@400;500;600;700;800;900&family=Noto+Sans:wght@500;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Orbitron:wght@400;600&family=Oswald:wght@400;600&family=Poppins:wght@200;300;700;800;900&family=Roboto:wght@300;400;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Montserrat+Alternates&family=Montserrat:wght@400;500;600;700;800;900&family=Noto+Sans:wght@500;900&family=Nunito+Sans:wght@400;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Orbitron:wght@400;600&family=Oswald:wght@400;600&family=Poppins:wght@200;300;700;800;900&family=Roboto:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -7,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #111111;
+    background-color: #131313;
     font-family: "Montserrat";
     
 }
@@ -58,15 +57,15 @@ nav{
 /* -----------------------------------------------End of Nav-bar------------------------------------------------ */
 
 .profile-pic img{
-    width: 600px;
+    width: 700px;
 }
 .profile{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .profile-right{
-   margin-top: 150px;
+   margin-top: 250px;
    margin-right: 100px;
 }
 .profile-right h3{
@@ -109,6 +108,7 @@ button{
     button{
         padding: 12px;
         width: 100px;
+    }
 }
 @media screen and (max-width:775px){
     .profile-pic img{
@@ -118,26 +118,24 @@ button{
        
         font-size: small;
        
-        margin-bottom: 25px;
-        
+        margin-bottom: 25px;  
     }
 }
+
 @media screen and (max-width:749px){
     .profile-right h1{
         text-align: center;
         font-size: 40px;
-    }
-}
-   
+    }  
 }        
-    
+
 
 /* --------------------------------------End of Header section--------------------------------------------------- */
 
 .highlights{
     height: 650px;
     color:#fff;
-    background: linear-gradient(to right, #181818 50%, #111111 50%);
+    background: linear-gradient(to right, #181818 50%, #131313 50%);
 }
 
 .three-cards {

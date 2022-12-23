@@ -6,12 +6,9 @@
 
 ## Here is my project #15, Product Desigh Landing Page- Website. This assignment is a part of the BootCamp
 
-![image](<./images/Screenshot%20(299).png>)
-![image](<./images/Screenshot%20(300).png>)
-![image](<./images/Screenshot%20(301).png>)
-![image](<./images/Screenshot%20(302).png>)
-![image](<./images/Screenshot%20(303).png>)
-
-[github](https://github.com/Zareel/Product-Design-Landing-Page)
-
 [live](https://lively-z-product-design-landing-page.netlify.app/)
+
+![Screenshot (299)](https://user-images.githubusercontent.com/110910838/209384863-d37c0dc8-e65d-495a-a15f-fe7e60681498.png)
+![Screenshot (300)](https://user-images.githubusercontent.com/110910838/209384898-e29734c4-8c78-4950-a186-b4553f01903b.png)
+![Screenshot (302)](https://user-images.githubusercontent.com/110910838/209384922-348adeb4-8733-410b-9734-500f02fad063.png)
+![Screenshot (303)](https://user-images.githubusercontent.com/110910838/209384942-7717968a-dd7d-44e2-be28-243fbbe5728d.png)
